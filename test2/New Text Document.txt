@@ -1,2 +1,1 @@
-hi, this is new text.
-Bug added!
+hi, this is new text.Bugs fixed.
