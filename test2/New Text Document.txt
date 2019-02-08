@@ -1,1 +1,1 @@
-hi, this is new text.
+hi, this is new text.Bugs fixed.
